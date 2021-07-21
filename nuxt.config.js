@@ -20,7 +20,14 @@ export default {
   css: [
     'element-ui/lib/theme-chalk/index.css'
   ],
-
+  env: {
+    baseUrl: 'http://0.0.0.0:3005'
+  },
+  server: {
+    port: 3005, // default: 3000
+    host: '0.0.0.0', // default: localhost,
+    timing: false
+  },
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
     '@/plugins/element-ui'
