@@ -1,0 +1,1133 @@
+[
+  {
+    "id": 18,
+    "solutionName": "金融",
+    "banner": {
+      "title": "金融",
+      "desc": "电子签约助银行、保险企业加强合规性，同时降本增效，优化客户体验",
+      "url": "https://static.bestsign.cn/f3ef6f3f926133fc9687a9cb95b9a181a62b07c6.png",
+      "videoUrl": "https://static.bestsign.cn/f40c8758d8e193a6db4bc9125a92a0b8a8184976.mp4"
+    },
+    "pain": [
+      {
+        "title": "风控要求高",
+        "desc": "借款人需要严格的实名认证，签署过程要满足法律法规要求",
+		"icon": "https://static.bestsign.cn/6465d30d33213a43bc7c9a461ed7d449f4e4c894.png",
+		"iconfont":"icon-fengkongyaoqiugao"
+      },
+      {
+        "title": "场景复杂，产品易用性要求高",
+        "desc": "各种业务场景需要不同的签署流程，大量的合同、协议、单据也需要形成数据流，与业务协同",
+		"icon": "https://static.bestsign.cn/cfbc5d01b575e3339b77064d4e390563ab5f85ec.png",
+		"iconfont":"icon-yiyongxingyaoqiugao"
+      },
+      {
+        "title": "业务量大，并发要求高",
+        "desc": "需要高稳定性的系统支持超高流量的同时在线签署",
+		"icon": "https://static.bestsign.cn/d7c3a8e5861b3044660375ece47ee1cc10be2309.png",
+		"iconfont":"icon-bingfayaoqiugao"
+      }
+    ],
+    "scene": [
+      {
+        "title": "传统金融",
+        "desc": "投资协议,信托协议,保理协议",
+		"icon": "https://static.bestsign.cn/e4ce0863a0e6361d2846b0eb57884f6dba52e018.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-chuantongjinrong"
+      },
+      {
+        "title": "金融科技平台",
+        "desc": "理财协议、出借协议、借款协议",
+		"icon": "https://static.bestsign.cn/a5a41dd667cd744a5d5afa91b95109e6f7cf5e94.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-jinrongkejiicon"
+      },
+      {
+        "title": "融资租赁",
+        "desc": "买卖合同、融资租赁合同、抵押合同",
+		"icon": "https://static.bestsign.cn/4674e9155df7b29d240f7af479e6941736d0ab40.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-rongzizulinicon"
+      },
+      {
+        "title": "供应链金融",
+        "desc": "保理协议、债权转让协议、担保函",
+		"icon": "https://static.bestsign.cn/b84e1cd2ada637c4a1a93879e8911cc8bb2748a4.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-gongyinglianjinrongicon1"
+      }
+    ],
+    "solution": [
+      {
+        "title": "电子签名+法律科技提升风控等级",
+        "desc": "生成防篡改的，不可抵赖的数字签名；可信时间戳，区块链技术存证，让合同内容无法篡改，在线仲裁减少维权成本。",
+		"url": "https://static.bestsign.cn/71c77c1e1440ba2dae74c06c24c42e97f13e668e.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-falv"
+      },
+      {
+        "title": "应用场景灵活，业务流转效率更高",
+        "desc": "多种云部署方案无缝接入，适配各种终端、各种场景，多印章管理、自动生成电子签章，合同数据与业务关联，加速业务流转。",
+        "url": "https://static.bestsign.cn/e05621d9ecc59cddefcaf4e38fd984fc094f2571.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-zhengshu"
+      },
+      {
+        "title": "高稳定系统，服务以及响应快速",
+        "desc": "支持6000秒签章高并发，99.99%高可用性，数字证书、短信等多通道灾备，两地三中心容灾。",
+        "url": "https://static.bestsign.cn/86aa53eed708480e92cefa113021a74f27b5116a.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-falvkeji"
+      }
+    ],
+    "usage": {
+      "pc": "https://static.bestsign.cn:443/b24715881bc70bcd1e4c687a3275b85bc8e44e24.jpg",
+      "mp": "https://static.bestsign.cn:443/922ab6087f99aadb52f9df3a0343a6b7fc437757.jpg"
+    },
+    "evaluate": [
+		{
+		  "name": "张平",
+		  "desc": "长安银行网络金融部副总经理",
+		  "logo": "https://static.bestsign.cn/efef327f102b895d3278d119eb718e5bbfafcb9.jpg",
+		  "content": "“长安银行在服务过程中发现，当前中产阶级群体更加年轻，他们很少去银行柜台，而是倾心于更加便捷的移动化业务办理方式。为此，长安银行引入了上上签的电子签约技术提供支撑，在开卡签约、综合签约、移动个贷等业务中，客户可以使用移动终端，更加高效、便捷地签署各类协议，大大简化业务办理流程，优化客户体验。"
+		},
+		{
+		  "name": "章斌",
+		  "desc": "重庆富民银行产品经理",
+		  "logo": "https://static.bestsign.cn/7bdbb15fa393edbdb543e1d7f42f264f1af591c5.jpg",
+		  "content": "“富民银行在寻求科技转型的进程中选择与上上签携手，在借贷场景中引入电子签约技术，不设实体门店，用户在线上就能一键签署各项服务协议，上上签可以保障协议的法律效力和数据安全。未来，我们会深化与上上签的合作，用电子签约技术带动产品形态、客户渠道、业务模式等多方面的智慧升级。”"
+    }
+	  ],
+    "seo": {
+      "title": "银行保险电子签约解决方案_上上签电子签约云平台",
+      "keywords": "银行保险行业解决方案,银行保险合同场景,银行保险合同应用",
+      "description": "上上签银行保险行业解决方案旨在通过新技术，帮助企业实现方便快捷的实时在线电子合同签署。"
+    },
+    "icon": "yinhang",
+    "features": {
+      "tong": [
+        "签署效率低",
+        "文件种类多，管理复杂",
+        "用户体验差",
+        "数据安全要求高"
+      ],
+      "case": [
+        "在线实时高效签署",
+        "分类自动归档，智能管理",
+        "签署便捷，用户体验好",
+        "四大权威认证，金融级安全"
+      ],
+      "type": [
+        "《消费分期服务协议》",
+        "《信用卡开卡协议》",
+        "《征信授权协议》",
+        "《理赔申请书》",
+        "《投资理财协议》",
+        "《投保申请书》"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "solutionName": "零售制造",
+    "banner": {
+      "title": "零售制造",
+      "desc": "帮助零售制造企业提升供应链运转效率，加快数字化转型步伐",
+      "url": "https://static.bestsign.cn/e4cfa510ea45c5f8e3760173ad7f274312be8ff9.png",
+      "videoUrl": "https://static.bestsign.cn/3eddd69d-8047-4691-b5f8-23f1b444d843.mp4"
+    },
+    "pain": [
+      {
+        "title": "高成本",
+        "desc": "纸质合同签署，需要花费纸张、打印、快递以及人员管理等大量费用和时间",
+		"icon": "https://static.bestsign.cn/60d6834f0b881a4f8995c6044b467ae7380c9d3f.png",
+		"iconfont":"icon-gaochengbenicon"
+      },
+      {
+        "title": "低安全",
+        "desc": "异地签署无法保证双方的真实身份，存在单方修改内容的风险，合同在快递、存储过程中也很容易外泄或丢失",
+		"icon": "https://static.bestsign.cn/8e6106467a13ffb574b492613f782540580ea0ba.png",
+		"iconfont":"icon-dianquan"
+      },
+      {
+        "title": "难管理",
+        "desc": "大量的合同、审批文件等都需要定期归档整理，调取、查询麻烦，纸质合同到期后不能自动提醒，为管理带来极大的不便",
+		"icon": "https://static.bestsign.cn/5886e2a73eef26697ddf7ae9a0f1e778aecfb62f.png",
+		"iconfont":"icon-nanguanli"
+      },
+      {
+        "title": "低效率",
+        "desc": "公章调用流程繁琐，审批流程长，签署周期长，严重影响员工和管理者的工作效率",
+		"icon": "https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-dixiaoshuai"
+      }
+    ],
+    "scene": [
+      {
+        "title": "供应商管理",
+        "desc": "合作框架协议、财务对账单、商家入驻协议等",
+        "icon": "https://static.bestsign.cn/2100f684dc8df3d123536b05b69592437a45e257.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-gongyingshangguanliicon"
+      },
+      {
+        "title": "供应链金融",
+        "desc": "保理业务申请书、担保函、债权转让确认书、赊销合同、白条服务协议等",
+        "icon": "https://static.bestsign.cn/a5a41dd667cd744a5d5afa91b95109e6f7cf5e94.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-gongyinglianjinrongicon"
+      },
+      {
+        "title": "采购销售",
+        "desc": "采购协议、销售合同、订金收据等",
+        "icon": "https://static.bestsign.cn/a4cb85a87b54529f932f3b8916f6a54a1dfb1194.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-caigouxiaoshouicon"
+      },
+      {
+        "title": "物流配送",
+        "desc": "运输协议、提货单、物流回单等",
+        "icon": "https://static.bestsign.cn/72b241c7ebd660db9632812ef245c48c1e91a843.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-wuliupeisongicon"
+      },
+      {
+        "title": "人员管理",
+        "desc": "劳动合同、保密协议、会员服务协议等",
+        "icon": "https://static.bestsign.cn/733556253f22b79090e9734ef0c35c2773e74110.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-renyuanguanli2icon"
+      }
+    ],
+    "solution": [
+      {
+        "title": "随时随地合同线上签署，更安全、更省时",
+        "desc": "合同签署全线上完成，不受时间、地点限制；电子合同有效防止篡改，合同发起后一旦一方签署，内容即不可变更；签署流程简单易操作，只需几秒即可完成合同签署。",
+        "url": "https://static.bestsign.cn/a586aee6a6d5736a7521cde7061cfbe1781d43e5.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-gaochengbenicon"
+      },
+      {
+        "title": "合同智能管理，更节约",
+        "desc": "可在线下载和查看合同，电子化归档，不需要专人专地存储管理合同。优化合同签署流程，减少人工错误，降低人力投入。",
+        "url": "https://static.bestsign.cn/2e0db24aeb81c1caa0c8128b7a5146097242e10a.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-zhinengguanli"
+      },
+      {
+        "title": "关联企业现有信息系统，业务全线上管理更高效",
+        "desc": "推进企业供应链管理的信息化进程，电子合同关联到进销存、供应商和 OA 等多个系统，实现全线上业务流转；合同数据与订单数据、采购数据、财务数据关联，实现数据互通。",
+        "url": "https://static.bestsign.cn/bda4ee8bac2c30d9589e282d170d3dbe99de8931.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-guanlianqiye"
+      }
+    ],
+    "usage": {
+      "pc": "https://static.bestsign.cn:443/8be6414536a77141d08aee0b87e8b6caff8f80ca.jpg",
+      "mp": "https://static.bestsign.cn:443/6f1270ad53742dca09d69982283c712d7979bacd.jpg"
+    },
+    "evaluate": [
+      {
+        "name": "张剑君",
+        "desc": "好丽友 中国区法务与知识产权负责人",
+        "logo": "https://static.bestsign.cn/7cdcdf7e26b7aefd4634aea3e6e60d839d14b5e6.jpg",
+        "content": "“好丽友选择与上上签携手，一方面因为上上签的技术出众，产品体验好；另一方面也因为上上签积累了非常多的大客户服务经验。通过上上签强大的实名认证体系，好丽友与经销商签署协议更加合法合规，同时也实现了合同的智能化管理以及内部数据的系统整合，从而提升了渠道管理效率。 后续，我们希望与上上签继续深化合作，积极拓展在人力资源管理、物流等更多场景的应用。”"
+      },
+      {
+        "name": "冯元刘宏曦",
+        "desc": "顾家家居副总裁",
+        "logo": "https://static.bestsign.cn/f12c5563d0e1df99d5d624965e85a9dd61a886dd.jpg",
+        "content": "“顾家最终选择上上签，除了看重安全技术实力外，上上签在客户群中的口碑也是重要因素。通过上上签，顾家与各地经销商之间的合同都可以在线签约、电子化管理。从前合同往来寄送要花费近一个月，如今仅需几分钟。合同管理成本也节约近50%。上上签加深了顾家家居的供应链信息化管理程度，帮助顾家家居在未来存量竞争中取得先机。”"
+      },
+      {
+        "name": "忻伊霆",
+        "desc": "柯尼卡美能达 销售管理统括部长",
+        "logo": "https://static.bestsign.cn/55fed166211b0df8982fe5e401222dd2250ce2a4.jpg",
+        "content": "“柯尼卡美能达办公系统（中国）有限公司是一家深耕中国的跨国公司，在复合机行业市场占有率领先。我们拥有完善的客户网络，每年都需要花费大量的人力物力在各类纸制合同计划、审核、批准、输出、盖章、寄送和存管等相关工作。作为企业智能化运营理念的倡导者和实践者，我们谋求和中国的新兴IT企业合作，不断提升各项业务效率，采用电子签章系统是企业智能化运营中的重要一环。在诸多电子签章解决方案供应商中，我们最终选择了上上签。从实践中看，我们认为我们的选择非常正确。”"
+      }
+    ],
+    "seo": {
+      "title": "零售制造业电子签约解决方案_上上签电子签约云平台",
+      "keywords": "零售制造解决方案,零售制造合同场景,零售制造合同应用",
+      "description": "上上签的零售制造业解决方案旨在通过新技术，帮助企业实现方便快捷的实时在线电子合同签署。"
+    },
+    "icon": "lingshou",
+    "features": {
+      "tong": [
+        "合同打印、邮寄成本高",
+        "大量合同管理低效",
+        "异地签署风险高",
+        "合同类型多，公章调用流程复杂"
+      ],
+      "case": [
+        "线上签署，无需邮寄",
+        "优化企业运营效率",
+        "强实名、防篡改",
+        "业务信息化协同"
+      ],
+      "type": [
+        "《经销商框架协议》",
+        "《销售合同》",
+        "《采购合同》",
+        "《供货对账单》"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "solutionName": "物流",
+    "banner": {
+      "title": "物流",
+      "desc": "电子签约助物流行业实现单据流、信息流、资金流的线上融合",
+      "url": "https://static.bestsign.cn/c9d97846838e3c5cb86bec62706c6cba82806cce.png",
+      "videoUrl": "https://static.bestsign.cn/51a5e71e-6c39-483a-b991-14f6a1626b71.mp4"
+    },
+    "pain": [
+      {
+        "title": "信用机制待完善",
+        "desc": "产业链条长，从事人员文化水平普遍不高，有极大的冒签代签风险",
+		"icon": "https://static.bestsign.cn/5eb3dffbb00ef44bcf1c95ba3153077923a50bcb.png",
+		"iconfont":"icon-heguimenjianicon"
+      },
+      {
+        "title": "线下签署周期长",
+        "desc": "作业地点远至边疆、下到乡村，纸质文件签署的周期十分漫长",
+        "icon": "https://static.bestsign.cn/ff6fe572d44a978935188b57cb75c860b121e18d.png",
+		"iconfont":"icon-xiaoshuaidiicon"
+      },
+      {
+        "title": "单据管理复杂",
+        "desc": "纸质单据管理效率低下，难以实时掌控签收状态，且储存非常麻烦",
+        "icon": "https://static.bestsign.cn/5318675f9f3d58eb996bd5b844a48ab4bb981bf5.png",
+		"iconfont":"icon-liuchengchangicon"
+      }
+    ],
+    "scene": [
+      {
+        "title": "运输业务需求",
+        "desc": "货运协议、提货单、交接单、物流回执单等",
+        "icon": "https://static.bestsign.cn/72b241c7ebd660db9632812ef245c48c1e91a843.png",
+		"iconfont":"icon-yewuxuqiu"
+      },
+      {
+        "title": "运营管理需求",
+        "desc": "承运合作协议、司机注册协议、代开票授权协议等",
+        "icon": "https://static.bestsign.cn/d388ff7b94b242ccbd55561d550390dba3396d5e.png",
+		"iconfont":"icon-yunyingguanliicon"
+      },
+      {
+        "title": "拓展服务需求",
+        "desc": "ETC授信协议、运费保理协议、贷款购车协议等",
+        "icon": "https://static.bestsign.cn/bf1ebc4f5c13a0ba3267a89e75b576be0de109fe.png",
+		"iconfont":"icon-tuozhanfuwuicon"
+      }
+    ],
+    "solution": [
+      {
+        "title": "电子签约作为运输业务真实性凭证，更安全",
+        "desc": "电子签约实现物流运输业务中交接信息的留存与追溯，无论是签署双方的身份信息，还是承运合同、运单、交接单内容，都能形成长期、有效、不可篡改的数据档案．随时调阅、核验。",
+		"url": "https://static.bestsign.cn/289accbd4dc050ea3e4540c27b7b63c8e1dc901c.png",
+		"iconfont":"icon-dianquan"
+      },
+      {
+        "title": "实现随时随地的单据签署，更省时",
+        "desc": "通过短信、App、小程序等方式，快速实现合同签订，业务数据实时集成，将涉及合同签订的众多参与方，进行信息整合。",
+		"url": "https://static.bestsign.cn/141e2bc176ac7ec9c76c6b32a591d7a66b95d60b.png",
+		"iconfont":"icon-liucheng"
+      },
+      {
+        "title": "一站式单据存管，更节约更高效",
+        "desc": "对电子单据实现全流程管控，实现无纸化存储，实现信息沈与单据流的整合统一，提升运营效率，降低运营成本。",
+		"url": "https://static.bestsign.cn/db756368130b7882c156afa96b50a7d418eb5df1.png",
+		"iconfont":"icon-zhinengguanlishengchengben"
+      }
+    ],
+    "usage": {
+      "pc": "https://static.bestsign.cn:443/95944a552e3fd21fef915316e1002fe525e7a5b5.jpg",
+      "mp": "https://static.bestsign.cn:443/56ae90252e7f469517aefc524940b4221394558a.jpg"
+    },
+    "evaluate": [
+      {
+        "name": "殷晟翔",
+        "desc": "丹鸟 法务高级专家",
+        "logo": "https://static.bestsign.cn/6fa2a93f23f35cf7ef80028a3c7f1ac79b4e9883.jpg",
+        "content": "“上上签无论在产品功能还是服务能力上都业界领先，尤其在物流领域积累了很多头部客户的服务经验，这是丹鸟最终选择与上上签携手合作的原因。通过上上签，丹鸟与快递、仓配、驿站等业务线上的众多生态合作伙伴，可以更高效地完成各类合同文件的电子化签署，从而打破数据孤岛，实现产业链多方协同。对消费者而言，物流服务的整体效率大为提高，体验也更加优质。”"
+      },
+      {
+        "name": "冯雷",
+        "desc": "路歌 创始人、董事长&CEO",
+        "logo": "https://static.bestsign.cn/24cca53e31cf758c7b2fc37f51e3c7fa97b8ea2a.jpg",
+        "content": "“上上签的电子合同严谨合规，在降本增效的同时也能给客户更强的法律保障。通过使用上上签的电子合同服务，路歌物流平台进一步提升了业务推进效率，迅速与货源企业、物流公司、卡车司机等上下游各方建立合作。上上签的合同安全性、法律严谨性也让路歌非常放心。”"
+    }
+    ],
+    "seo": {
+      "title": "物流业电子签约解决方案_上上签电子签约云平台",
+      "keywords": "物流解决方案,物流合同场景,物流合同应用",
+      "description": "上上签的物流行业解决方案旨在通过新技术，帮助企业实现方便快捷的实时在线电子合同签署。"
+    },
+    "icon": "wuliu",
+    "features": {
+      "tong": [
+        "单据签署周期长",
+        "文件管理复杂",
+        "信息不对称",
+        "信用机制待完善"
+      ],
+      "case": [
+        "高效签署，提高效率",
+        "分类归档，智能管理",
+        "形成线上信息闭环",
+        "严格实名，提升公信力"
+      ],
+      "type": [
+        "《货物承运协议》",
+        "《物流电子回单》",
+        "《网点/司机加盟协议》",
+        "《仓储服务合同》"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "solutionName": "人力资源",
+    "banner": {
+      "title": "人力资源",
+      "desc": "显著提升人力资源管理效率，提供更强的法律保障，避免劳务纠纷",
+      "url": "https://static.bestsign.cn/4f4d649bdd2882e487661e68d04cf168646c2d99.png",
+      "videoUrl": "https://static.bestsign.cn/e94883dbc261086627ee00ee4d51393a2d5bba43.mp4"
+    },
+    "pain": [
+      {
+        "title": "纸质劳动合同签署，管理效率低",
+        "desc": "员工基数大、流动率高，1对1签署工作量大，HR也不能确保员工资料的真实性；异地签署合同，来回邮寄，费时费力",
+        "icon": "https://static.bestsign.cn/9827ca9c9384fc4f4228837c77f76579426258f2.png",
+		"iconfont":"icon-heguimenjianicon"
+      },
+      {
+        "title": "劳动合同文件管理繁琐，成本高",
+        "desc": "打印、纸张、快递的成本随着人员增加攀升，再加上专人管理，需要大量的人力成本",
+        "icon": "https://static.bestsign.cn/60d6834f0b881a4f8995c6044b467ae7380c9d3f.png",
+		"iconfont":"icon-xiaoshuaidiicon"
+      },
+      {
+        "title": "劳动法规严格，纸质劳动合同有很多潜在风险",
+        "desc": "存在代签、冒签、合同篡改的风险，合同、协议及过程管理文件也需要及时有效签署，纸质合同易篡改、易丢失，难以举证",
+        "icon": "https://static.bestsign.cn/bc0bf1357946ca232c0e5b51a7e7e037f4cc0276.png",
+		"iconfont":"icon-liuchengchangicon"
+      }
+    ],
+    "scene": [
+      {
+        "title": "员工合同相关",
+        "desc": "劳动合同、竞业协议、保密协议、员工手册等",
+        "icon": "https://static.bestsign.cn/5b2afd4cf74f1c30d8fe0baa115a5041091ed189.png",
+		"iconfont":"icon-yuangonghetongicon"
+      },
+      {
+        "title": "员工服务相关",
+        "desc": "社保公积金代缴协议、税务代理协议、背调协议等",
+        "icon": "https://static.bestsign.cn/8ffd2c3a058f1c3c44afdfcdf8bf78c4192a5f53.png",
+		"iconfont":"icon-yuangongfuwuicon"
+      },
+      {
+        "title": "业务合作相关",
+        "desc": "人力资源外包服务协议、企业入驻平台服务协议、委托服务协议等",
+        "icon": "https://static.bestsign.cn/decfe4c83b9eca3dc4ede79dca37805a81489dd6.png",
+		"iconfont":"icon-yewuhezuoicon"
+      }
+    ],
+    "solution": [
+      {
+        "title": "合同在线批量签署，更高效",
+        "desc": "合同签署全线上完成，不受时间、地点限制；可生成几百份劳动合同，一键发送签署。",
+		"url": "https://static.bestsign.cn/c5f71dd5aee580c0b7cf8407fd3e622df6f226ff.png",
+		"iconfont":"icon-dianquan"
+      },
+      {
+        "title": "合同智能管理，更省成本",
+        "desc": "可在线下载和查看合同，电子化归档，不需要专人专地存储管理合同，节省大量成本。",
+		"url": "https://static.bestsign.cn/33de4a257ebfdf21c98dbdb88b4c1aea7fa91df0.png",
+		"iconfont":"icon-liucheng"
+      },
+      {
+        "title": "电子签名科技，杜绝法律风险",
+        "desc": "刷脸签技术，防止冒签代签。数字签名+时间戳+区块链存证技术，合同不可篡改。电子合同实时在线公证，方便举证。",
+		"url": "https://static.bestsign.cn/529fcf3d91007cac5de7cd7d5db15ec8c4e7cfdb.png",
+		"iconfont":"icon-fengkongdengjiicon"
+      }
+    ],
+    "usage": {
+      "pc": "https://static.bestsign.cn:443/a4443d879d7c4cd344167e22b3533e0f52b96902.jpg",
+      "mp": "https://static.bestsign.cn:443/2a8b8b5a19e58f44364fbd39f1c00eada689c422.jpg"
+    },
+    "evaluate": [
+      {
+        "name": "张晖",
+        "desc": "中智上海外企服务公司 副总经理、研发运营管理事业部负责人",
+        "logo": "https://static.bestsign.cn/e84e9665dc29ca1fd2b287b8a4a2ef198b385478.png",
+        "content": "“通过上上签，中智为企业客户在劳动合同订立、薪资发放、社保缴纳、资料管理等HR管理流程中实现更加便捷、高效的无纸化操作。服务品质有了较大提升，员工入职、离职等效率增长近60%，员工档案、劳动合同等文件的管理也更加方便，管理成本节省至少三成。”"
+      },
+      {
+        "name": "冯元曦",
+        "desc": "锐博集团 广东公司副总经理",
+        "logo": "https://static.bestsign.cn/49e66529730f948b717983225abfce2a0c7e4d55.jpg",
+        "content": "“通过上上签，锐博可以向各地员工统一发起合同，高效完成电子文档的签署和管理。独特的“印章管理”功能，帮助锐博实现了总公司与各地分公司的印章使用权限、使用记录的统一管理，大大提升了锐博的信息化管理程度。上上签产品功能齐全，服务能力出众，这是吸引锐博选择上上签的重要原因。”"
+      },
+      {
+        "name": "纪伟国",
+        "desc": "北森 CEO",
+        "logo": "https://static.bestsign.cn/150b61b6daf17ea533d1ad89ea25abcfa65928f6.jpg",
+        "content": "“嵌入上上签的电子签约系统以后，北森HR SaaS云平台签署的劳动合同都有严格的企业、员工实名认证，每一次签署都有公证处做后台公证，证据链保存完整。上上签电子签约技术严谨高效，北森可以放心地为更多企业提供HR场景的合同全生命周期服务。”"
+      },
+      {
+        "name": "章新波",
+        "desc": "盖雅工场联合创始人兼CEO",
+        "logo": "https://static.bestsign.cn/79c29a06c7cc8126ec22a0a4a0e6f6af7f944ca.png",
+        "content": "“上上签为企业HR管理提供了安全、可控、方便、合规的电子身份认证与合同签署，这不仅环保、节约，更在签约体验和法律保障方面为企业和员工双方都带来了便利。”"
+      },
+      {
+        "name": "王芳芳",
+        "desc": "麦斯特 项目经理",
+        "logo": "https://static.bestsign.cn/4be28ecc7d90b5931e6127091806c149dfcbc109.jpg",
+        "content": "“上上签通过云端持续升级，保持其独有的合同智能管理功能点，助力麦斯特更好地为客户提供人力资源一站式专业服务。将上上签的电子签名与合同管理技术嵌入到产品中，实现劳动合同在线、批量化签署，让麦斯特可以帮助客户大大优化HR管理工作流程。上上签与麦斯特共同成长为HR领域新的价值开拓者。”"
+      },
+      {
+        "name": "史敏",
+        "desc": "FESCO江苏有限公司多元化用工及弹性福利部总监",
+        "logo": "https://static.bestsign.cn/416e5adf6d5813a707c1ea4c272a73f9bee57341.jpg",
+        "content": "“作为中国人力资源服务领域的领先品牌，FESCO一直走在行业前列。2019年6月，FESCO引入了上上签电子签约技术，其特有的模板化批量签署、印章管控、智能归档等专业化功能非常契合HR场景，让各类合同的签署和管理效率提升70%以上。上上签是FESCO值得信赖的伙伴。”"
+      },
+      {
+        "name": "富宝甜",
+        "desc": "魔方网聘产品VP",
+        "logo": "https://static.bestsign.cn/f91f422e279917ed7a002b01d202324f527bb3d3.jpg",
+        "content": "“上上签帮助我们建立了完整的数字化合同管理流程，与企业客户签署合同变得异常高效，业务进度全程可视，公司运营状况也变得更加清晰。相信魔方网聘会继续深化与上上签的合作，让企业在数字化运营的路上走得更远。”"
+      }
+    ],
+    "seo": {
+      "title": "HR电子签约解决方案_上上签电子签约云平台",
+      "keywords": "HR合同解决方案,HR合同场景,HR合同应用",
+      "description": "上上签的人力资源业解决方案旨在通过新技术，帮助HR实现方便快捷的实时在线电子合同签署。"
+    },
+    "icon": "renli",
+    "features": {
+      "tong": [
+        "员工基数大、流动率高",
+        "异地签署成本高",
+        "他人代签增加法律风险",
+        "合同管理繁琐"
+      ],
+      "case": [
+        "模板嵌套，批量签署",
+        "线上高效签署，无需邮寄",
+        "严格实名，杜绝代签",
+        "自动归档，智能管理"
+      ],
+      "type": [
+        "《员工劳动合同》",
+        "《员工竞业协议》",
+        "《个人背调授权书》",
+        "《劳务派遣合同》"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "solutionName": "IT互联网",
+    "banner": {
+      "title": "IT互联网",
+      "desc": "以电子签约建立完整的线上业务流程，降本增效，优化客户体验",
+      "url": "https://static.bestsign.cn/b9640a9760c517af577b57b722696f7f0d8f4b0f.png",
+      "videoUrl": "https://static.bestsign.cn/c276d7eaf30a1ce4a080627f47f0b15f9fb35b19.mp4"
+    },
+    "pain": [
+      {
+        "title": "成本高",
+        "desc": "纸质合同快递物流成本高",
+        "icon": "https://static.bestsign.cn/60d6834f0b881a4f8995c6044b467ae7380c9d3f.png",
+		"iconfont":"icon-gaochengbenicon"
+      },
+      {
+        "title": "管理难",
+        "desc": "纸质合同归档、管理麻烦，后期发生纠纷查找难",
+        "icon": "https://static.bestsign.cn/9827ca9c9384fc4f4228837c77f76579426258f2.png",
+		"iconfont":"icon-nanguanli"
+      },
+      {
+        "title": "风险大",
+        "desc": "合同签署人身份核实难度大，存在假冒代签的风险",
+        "icon": "https://static.bestsign.cn/bc0bf1357946ca232c0e5b51a7e7e037f4cc0276.png",
+		"iconfont":"icon-dianquan"
+      },
+      {
+        "title": "效率低",
+        "desc": "纸质合同审批，业务流程需要漫长的等待，甚至导致中断交易",
+        "icon": "https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-dixiaoshuai"
+      }
+    ],
+    "scene": [
+      {
+        "title": "O2O平台",
+        "desc": "商家入驻协议、平台服务协议等",
+        "icon": "https://static.bestsign.cn/cf730fa681b70e844d2ae33b30e3a4d92ac2446d.png",
+		"iconfont":"icon-o2o"
+      },
+      {
+        "title": "直播平台",
+        "desc": "主播入驻协议、年度合作协议等",
+        "icon": "https://static.bestsign.cn/ceb2d8536893c9fc88a02b5c4565a466c5c147a0.png",
+		"iconfont":"icon-zhiboicon"
+      },
+      {
+        "title": "教育平台",
+        "desc": "学员培训协议等",
+        "icon": "https://static.bestsign.cn/6dd5026d7b635d69ae29606363aabe3ddbfec568.png",
+		"iconfont":"icon-jiaoyuicon"
+      },
+      {
+        "title": "医疗平台",
+        "desc": "电子处方、电子诊断报告、采购协议等",
+        "icon": "https://static.bestsign.cn/ca9e0a08f969b7291d8af08ff4cbbb077fba40e3.png",
+		"iconfont":"icon-yiliaoicon"
+      },
+      {
+        "title": "旅游平台",
+        "desc": "旅游合同、旅游分期合同、旅游保险合同、旅游安全补充协议等",
+        "icon": "https://static.bestsign.cn/ac42cc8a5e6f42651bf2bf951ac84702f169985.png",
+		"iconfont":"icon-lvyouicon"
+      },
+      {
+        "title": "人员管理",
+        "desc": "劳动合同、保密协议、会员服务协议等",
+        "icon": "https://static.bestsign.cn/c4ad92d042f1353f74717bceea0367551eefd059.png",
+		"iconfont":"icon-renyuanguanli2icon"
+      }
+    ],
+    "solution": [
+      {
+        "title": "无缝对接平台管理系统，业务流转效率更高",
+        "desc": "多种云部署方案无缝接入，实现产品闭环，合同数据与订单数据、采购数据、财务数据关联，加速业务流转。",
+		"url": "https://static.bestsign.cn/2f43bbba5f3ea64ac6ee07b251a643b19447d8a.png",
+		"iconfont":"icon-dianquan"
+      },
+      {
+        "title": "合同在线签署、智能管理，更省成本",
+        "desc": "合同签署全线上完成，不受时间、地点限制；可在线下载和查看合同，电子化归档，不需要专人专地存储管理合同，节省大量成本。",
+		"url": "https://static.bestsign.cn/d37dfba2dea451f76c9347a0c270ad767fb01e88.png",
+		"iconfont":"icon-liucheng"
+      },
+      {
+        "title": "电子签名技术提升风控等级，更安全",
+        "desc": "每份合同、单据都通过电子签名技术，生成防篡改的，不可抵赖的数字签名；可信时间戳，区块链技术存证，让合同内容无法篡改。",
+		"url": "https://static.bestsign.cn/71c77c1e1440ba2dae74c06c24c42e97f13e668e.png",
+		"iconfont":"icon-fengkongdengjiicon"
+      }
+    ],
+    "usage": {
+      "pc": "https://static.bestsign.cn:443/5a4c370090aa746004aa1bd6b21f4c51f3006421.jpg",
+      "mp": "https://static.bestsign.cn:443/2c483c58fca34e4ad91f0f0ab0ea878b08aeb59e.jpg"
+    },
+    "evaluate": [
+      {
+        "name": "赵翠",
+        "desc": "美团网 法律顾问",
+        "logo": "https://static.bestsign.cn/3544790df8b0f62a2b5429e006096163f4a49af1.png",
+        "content": "“作为中国领先的生活服务电子商务平台，美团的服务涵盖200多个品类，每天都要处理海量的合同文件。上上签帮助美团搭建了安全高效的合同签署与智能管理方式，对外能与广大商业伙伴迅速对接，保证业务高效推进；对内则大大提升企业合同运营效率，实现数字化管理转型。”"
+      },
+      {
+        "name": "杨少波",
+        "desc": "天鹅到家 技术团队负责人",
+        "logo": "https://static.bestsign.cn/db4c64a933bd89a0654652cbd9df08e64ff8f28d.jpg",
+        "content": "“通过上上签，天鹅到家的用户可以更加方便地与家政服务人员签署服务合同。上上签的电子合同能够为用户带来高效的服务体验，并保障用户、平台与家政服务提供者多方的合法权益。对天鹅到家来说，上上签是一个多赢的选择。”"
+      },
+      {
+        "name": "吴雪松",
+        "desc": "海风教育 联合创始人",
+        "logo": "https://static.bestsign.cn/c8db74b99e1744eb48eece226635819974105c90.png",
+        "content": "“作为一家智能在线教育平台，海风教育的学生遍布全国所有省市，在上上签电子签约技术的助力下，海风教育可以便捷快速的和来自全国各地的学员家长签署课程协议，大大降低了合同打印和邮寄成本，还能显著优化用户体验。可以说上上签的电子签约服务，是海风带给学员未来教育的科技感的有机组成。”"
+      },
+      {
+        "name": "奚孟",
+        "desc": "机蜜 创始人兼CEO",
+        "logo": "https://static.bestsign.cn/4824323ef72a4cf4d8178a05ca35348681f42735.png",
+        "content": "“在信用租赁服务领域，作为先行者的机蜜非常需要一款工具来解决租赁合同的线上签署，同时建立并完善合同信用监管机制，在租赁服务中给客户营造更好的法律保障。上上签的电子合同不仅拥有实名认证、证据链保存等安全保障，还提供公证处公证等法律服务，切实保护客户的合法权益，成为了机蜜的最佳选择。”"
+      },
+      {
+        "name": "孙弦",
+        "desc": "贝壳找房人力资源共享服务中心高级经理",
+        "logo": "https://static.bestsign.cn/59270bc2daecee2c153a4e8a1f88375aa97392ca.jpg",
+        "content": "“贝壳找房由链家网升级而来，是以技术驱动的品质居住服务平台，聚合和赋能全行业的优质服务者，致力于为两亿家庭提供包括二手房、新房、租赁和装修全方位居住服务。目前公司在员工入职新签合同、合同的续改签、辞职书的签署均通过上上签平台实现了电子签署。合同管理的效能提升非常明显。”"
+      },
+      {
+        "name": "沈淦",
+        "desc": "大搜车高级副总裁",
+        "logo": "https://static.bestsign.cn/4c262572ca12f8dd0fbe7fc4c81f55be44337d03.png",
+        "content": "“上上签的电子签约技术帮助大搜车打造了更契合互联网的汽车新零售方式。未来，大搜车将继续深化对电子签约技术的运用，将其扩展到汽车金融、二手车电商等合同类型更加复杂、签署量更大的业务中去，让更多用户享受随时随地的高效购车体验。”"
+      },
+      {
+        "name": "张昊",
+        "desc": "中青上方总经理助理",
+        "logo": "https://static.bestsign.cn/27415e88efcc6a42d3cae5def19d5e7fb12eb906.jpg",
+        "content": "“在引入上上签之前，面对客户量的激增，漫长的合同签署周期让我们颇为困扰。上上签的电子化签署与合同智能管理功能帮助中青上方跟全国各地的客户都能迅速签单，内部业务流程也进一步优化，效率的提升远超预期。除了业务层面，目前我们也将上上签运用到了公司内部的HR场景，让公司内外一同降本增效，更加稳健地成长。”"
+      },
+      {
+        "name": "邓以秋",
+        "desc": "居家瘦IT经理",
+        "logo": "https://static.bestsign.cn/7a5ac9ffbf7d8fdae1c08a5f612e2b26619ebcc2.jpg",
+        "content": "”居家瘦作为专业的减重健康管理服务团队，希望拥抱新技术为公司业务流程删繁就简，同时也让客户感受到居家瘦的智慧转变。采用上上签的电子合同能够让规划师迅速建立客户关系，随时随地签约也带给客户更优质的购买体验，帮助居家瘦实现了业务效率的新突破。“"
+      },
+      {
+        "name": "赵扬",
+        "desc": "蓝光嘉宝法律事务中心副总经理",
+        "logo": "https://static.bestsign.cn/95e8b73841817edfe7dc2f0021e8f7f2606986d9.jpg",
+        "content": "“作为“现代物业服务+互联网”的坚定实践者，蓝光嘉宝一直走在行业前列。引入上上签的电子签约科技亦是我们互联网化的重要一步。用上上签的技术可以更快、更方便地实现合同签署，降低成本、解放人力，让蓝光嘉宝在高速成长的路上走得更加轻松。”"
+      },
+      {
+        "name": "闫绍香",
+        "desc": "恒汉教育招聘主管",
+        "logo": "https://static.bestsign.cn/ced993d34e28ba737f9a22355a2b3f556e9eab05.jpg",
+        "content": "“作为教育培训行业，我们需要与大批学员签署协议，有了上上签的电子签约技术支持，长期困扰我们的合同管理难、效率低、人员流动率高等问题都得到了解决。通过上上签电子签约云平台还可以实现对学员的信息化管理，更便捷也更高效。”"
+      }
+    ],
+    "seo": {
+      "title": "互联网电子签约解决方案_上上签电子签约云平台",
+      "keywords": "互联网平台合同解决方案,互联网平台合同场景,互联网平台合同应用",
+      "description": "上上签的互联网平台解决方案旨在通过新技术，帮助企业实现方便快捷的实时在线电子合同签署。"
+    }
+  },
+  {
+    "id": 30,
+    "solutionName": "电商",
+    "banner": {
+      "title": "电商",
+      "desc": "加速商品供应链流转效率，增强单据签署合规性，降低纠纷率",
+      "url": "https://static.bestsign.cn/a7f39dde11a44453638387dc330d77ccfe23d64e.png",
+      "videoUrl": "https://static.bestsign.cn/b6b133c2be1b4447e622d8b54eb2003d13248fae.mp4"
+    },
+    "pain": [
+      {
+        "title": "效率与效力并重",
+        "desc": "既要保证线上业务开展的时效性，又要确保签署文件的法律效力",
+        "icon": "https://static.bestsign.cn/7e6c9605ba223c7a6fb2783607952471bf0b4be9.png",
+		"iconfont":"icon-xiaoliicon"
+      },
+      {
+        "title": "管理复杂",
+        "desc": "纸质合同签订之后的保管、归档、查询、审计等工作，需要大量的工作量",
+        "icon": "https://static.bestsign.cn/5886e2a73eef26697ddf7ae9a0f1e778aecfb62f.png",
+		"iconfont":"icon-guanlifuzaicon"
+      },
+      {
+        "title": "存证与举证",
+        "desc": "能够将文件进行第三方存证，当发生纠纷时，可以举证以维护自身权益",
+        "icon": "https://static.bestsign.cn/a8321c33a96e3ca45becfdf6429a3f8432c8303c.png",
+		"iconfont":"icon-juzhengicon"
+      }
+    ],
+    "scene": [
+      {
+        "title": "业务管理需求",
+        "desc": "平台服务协议、在线订单、签收单、购销合同等",
+		"icon": "https://static.bestsign.cn/9d8f5abbdf04454f0e232897843873c97c8bde46.png",
+		"iconfont":"icon-xingzhuang94"
+      },
+      {
+        "title": "供应链管理需求",
+        "desc": "商家入驻协议、年度合作协议、月度供货协议等",
+		"icon": "https://static.bestsign.cn/b84e1cd2ada637c4a1a93879e8911cc8bb2748a4.png",
+		"iconfont":"icon-gongyinglianicon1"
+      },
+      {
+        "title": "金融场景需求",
+        "desc": "白条合作协议、担保函、赊销协议、融资贷款服务协议等",
+		"icon": "https://static.bestsign.cn/a5a41dd667cd744a5d5afa91b95109e6f7cf5e94.png",
+		"iconfont":"icon-jinrongicon"
+      },
+      {
+        "title": "人力资源场景",
+        "desc": "劳动合同、竞业协议、员工手册、会员服务协议等",
+		"icon": "https://static.bestsign.cn/c1a34f1d1162b547648225169fa9ea3e7871d3a5.png",
+		"iconfont":"icon-renliziyuan2icon"
+      }
+    ],
+    "solution": [
+      {
+        "title": "无缝对接平台管理系统，业务流转效率更高",
+        "desc": "多种云部署方案无缝接入，实现产品闭环，合同数据与订单数据、采购数据、财务数据关联，加速业务流转。",
+		"url": "https://static.bestsign.cn/78b826110b2117edac9d49138e4ce32a1532b83f.png",
+		"iconfont":"icon-xianshangqianshu"
+      },
+      {
+        "title": "合同在线签署、智能管理，更省成本",
+        "desc": "合同签署全线上完成，不受时间、地点限制；可在线下载和查看合同，电子化归档，不需要专人专地存储管理合同，节省大量成本。",
+		"url": "https://static.bestsign.cn/8d8680611c7d4af9d4ec6a1e15e4de6b705d49e.png",
+		"iconfont":"icon-liucheng"
+      },
+      {
+        "title": "电子签名技术提升风控等级，更安全",
+        "desc": "每份合同、单据都通过电子签名技术，生成防篡改的，不可抵赖的数字签名；可信时间戳，区块链技术存证，让合同内容无法篡改。",
+		"url": "https://static.bestsign.cn/1de817d4c5dfae133eb5a18d408be9cd7b8f6d7b.png",
+		"iconfont":"icon-fengkongdengjiicon"
+      }
+    ],
+    "usage": {
+      "pc": "https://static.bestsign.cn:443/c8fd262796d216aab0bff181b8cc4ff6bd76b365.jpg",
+      "mp": "https://static.bestsign.cn:443/112a78a2698eb764ce8a551b67465e4026df3ce4.jpg"
+    },
+    "evaluate": [
+      {
+        "name": "蒋剑豪",
+        "desc": "奇化网CEO",
+        "logo": "https://static.bestsign.cn/b233c9caa4875ded3c49cc928dd216f5fba28e36.jpg",
+        "content": "“如果说奇化网连接了化工产业链的上下游，那么上上签则帮助奇化网让这种连接更加紧密。不仅合同签署效率显著提升，也为不同业务线的信息化管理创造了条件。奇化网一定会继续推进电子合同的使用，助力化工产业链更加智慧。”"
+      },
+      {
+        "name": "刘津兵",
+        "desc": "斑马会员平台 商品总监",
+        "logo": "https://static.bestsign.cn/65e7f006f64e724555f9950b448b33c0f7e52540.jpg",
+        "content": "“上上签的电子签约技术帮助我们平台与各地供应商搭建了非常高效的联络桥梁。合作协议、对账单等各类合同文件都通过上上签无纸化签署，电商供应链的运营也变得更加健康、可视化。互联网商业活动离不开新科技的支持，相信上上签会助力斑马会员打造更为智能的全球化生活体验平台。”"
+      }
+    ],
+    "seo": {
+      "title": "产业互联网电子签约解决方案_上上签电子签约云平台",
+      "keywords": "电子签名,产业互联网电子合同",
+      "description": "上上签的产业互联网解决方案旨在通过新技术，帮助产业互联网实现方便快捷的实时在线电子合同签署。"
+    }
+  },
+  {
+    "id": 21,
+    "solutionName": "房地产",
+    "banner": {
+      "title": "房地产",
+      "desc": "降低合同签署成本，助大型集团公司实现印章与合同的高效、统一管理",
+      "url": "https://static.bestsign.cn/e7fd2294a11b5ba6c78c7fbcc0a1aec2f14be5f.png",
+      "videoUrl": "https://static.bestsign.cn/8cff1384c8f59d1396c17f5f5772c0e26754f14d.mp4"
+    },
+    "pain": [
+      {
+        "title": "签约成本高",
+        "desc": "纸质合同需要用户到指定地点或快递寄送进行签约，导致成本的极大浪费",
+		"icon": "https://static.bestsign.cn/60d6834f0b881a4f8995c6044b467ae7380c9d3f.png",
+		"iconfont":"icon-gaochengbenicon"
+      },
+      {
+        "title": "合同管理乱",
+        "desc": "大量的采购协议、外包协议等都需要定期归档整理，调取、查询麻烦",
+        "icon": "https://static.bestsign.cn/b39e6fbfa8133771fbd0410d05439b87aba6aba1.png",
+		"iconfont":"icon-nanguanli"
+      },
+      {
+        "title": "印章管控难",
+        "desc": "业务覆盖全国，各个子公司和分公司公章分散在各地，无法统一管控，经常出现擅自挪用公章的现象",
+        "icon": "https://static.bestsign.cn/571e64d9f96b90080d0e62cd87eb1d118fb3d84.png",
+		"iconfont":"icon-dianquan"
+      }
+    ],
+    "scene": [
+      {
+        "title": "房产",
+        "desc": "施工承包合同、设备采购协议、外部供应商入驻合作协议、票据单等",
+		"icon": "https://static.bestsign.cn/f61077cc4dd18984a7ad94a4deafee7378f81da1.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-fangchan"
+      },
+      {
+        "title": "物业",
+        "desc": "物业管理合同、供应商合作协议等",
+		"icon": "https://static.bestsign.cn/afcf0a306efa53d29b27042f1529245d4236daf0.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-wuyeicon"
+      },
+      {
+        "title": "租赁",
+        "desc": "房东房屋委托书、租客租房合同、定金单、退押单等",
+        "icon": "https://static.bestsign.cn/4674e9155df7b29d240f7af479e6941736d0ab40.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-rongzizulinicon"
+      },
+      {
+        "title": "装修",
+        "desc": "装修合同、监理委托合同、验收单等",
+        "icon": "https://static.bestsign.cn/9a87891318710518d98457f39b01a8b1a3d6d6d0.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-zhuangxiuicon"
+      },
+      {
+        "title": "酒店",
+        "desc": "加盟协议、装修采购协议、施工协议等",
+        "icon": "https://static.bestsign.cn/b66a462e215af1cb69ef5886e5b6c956e57db28f.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-jiudianicon"
+      },
+      {
+        "title": "人力资源",
+        "desc": "劳动合同、竞业协议、员工手册、会员服务协议等",
+        "icon": "https://static.bestsign.cn/c1a34f1d1162b547648225169fa9ea3e7871d3a5.png",
+		"bgImg":"https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-renliziyuanicon"
+      }
+    ],
+    "solution": [
+      {
+        "title": "合同在线签署，更省成本",
+        "desc": "合同签署全线上完成，不受时间、地点限制，解决纸张、打印、快递等大量成本。",
+		"url": "https://static.bestsign.cn/d6cacb04aa2da2d5ceb8855f9aa7f842b4bdff66.png",
+		"iconfont":"icon-liucheng"
+      },
+      {
+        "title": "合同智能管理，更高效",
+        "desc": "可在线下载和查看合同，电子化归档，不需要专人专地存储管理合同，审批流缩短业务流程，提升工作效率。",
+        "url": "https://static.bestsign.cn/33de4a257ebfdf21c98dbdb88b4c1aea7fa91df0.png",
+		"iconfont":"icon-xinxixitong"
+      },
+      {
+        "title": "集团印章统一管理，更可控",
+        "desc": "集团的印章统一管理、统一发起合同、统一计费等功能，简化管理流程，杜绝公章私用。",
+		"url": "https://static.bestsign.cn/23b072b7f4ae4cafec42b2ef785868495d2fa81b.png",
+		"iconfont":"icon-cunzheng"
+      }
+    ],
+    "usage": {
+      "pc": "https://static.bestsign.cn:443/1237b924751c8589b900be3dca4a9edd323924da.png",
+      "mp": "https://static.bestsign.cn:443/4b882a1392c7992e8bab3226a335a16c9a5ac275.png"
+    },
+    "evaluate": [
+      {
+        "name": "孙弦",
+        "desc": "贝壳找房 人力资源共享服务中心高级经理",
+        "logo": "https://static.bestsign.cn/59270bc2daecee2c153a4e8a1f88375aa97392ca.jpg",
+        "content": "“贝壳找房由链家网升级而来，是以技术驱动的品质居住服务平台，聚合和赋能全行业的优质服务者，致力于为两亿家庭提供包括二手房、新房、租赁和装修全方位居住服务。目前公司在员工入职新签合同、合同的续改签、辞职书的签署均通过上上签平台实现了电子签署。合同管理的效能提升非常明显。”"
+      },
+      {
+        "name": "黄逸鸣",
+        "desc": "华住酒店集团 人力资源部员工关系经理",
+        "logo": "https://static.bestsign.cn/789e272cafb86c84778dbb89bbf23e55edfaffd2.png",
+        "content": "“上上签后台功能强大、易上手，各地员工入职，华住HR可以批量化发起劳动合同签署，员工入职效率提升超过50%。而签署后的合同也可以直接归档，HR可以随时搜索、查找和下载，大大节省了以往合同需要打印、寄送、专人专地存管的局面，合同管理成本也节约了三成以上。”"
+      },
+      {
+        "name": "李少伟",
+        "desc": "吉家集团 全国发展副总经理",
+        "logo": "https://static.bestsign.cn/df426c204507452e809736d7225769d5a4f6e241.png",
+        "content": "“引入上上签的电子签约服务，吉家与用户的合同签署、合同管理全面提速，员工培训成本减少30%、工作效率提升70%以上。上上签的电子签约技术有很强的合规保障，对数据隐私的保护也非常严密，帮助吉家提升用户信任度，更好地服务广大顾客和业主。上上签是吉家的放心选择。”"
+      },
+      {
+        "name": "彭祥",
+        "desc": "朗诗寓 信息主管",
+        "logo": "https://static.bestsign.cn/d8797c2eeb4c3122a6b92a2b35f410c0cb5fe36e.jpg",
+        "content": "“朗诗寓，朗诗集团旗下长租公寓品牌，致力于打造自然、舒适、人文、富有生活气息的品位居所，让广大“诗友”住进好时光。与上上签的合作，保证租房各环节合规安全，使得客户线上签约放心方便，是企业数字化升级的可靠选择。”"
+      },
+      {
+        "name": "赵扬",
+        "desc": "蓝光嘉宝 法律事务中心副总经理",
+        "logo": "https://static.bestsign.cn/3f7009d0acd93fa1b4ef8485da4840b30200d224.jpg",
+        "content": "“作为“现代物业服务+互联网”的坚定实践者，蓝光嘉宝一直走在行业前列。引入上上签的电子签约科技亦是我们互联网化的重要一步。用上上签的技术可以更快、更方便地实现合同签署，降低成本、解放人力，让蓝光嘉宝在高速成长的路上走得更加轻松。”"
+      }
+    ],
+    "seo": {
+      "title": "租赁业电子签约解决方案_上上签电子签约云平台",
+      "keywords": "租赁行业解决方案,租赁合同场景,租赁合同应用",
+      "description": "上上签租赁行业解决方案旨在通过新技术，帮助企业实现方便快捷的实时在线电子合同签署。"
+    }
+  },
+  {
+    "id": 25,
+    "solutionName": "汽车",
+    "banner": {
+      "title": "汽车",
+      "desc": "显著增强单据签署的合规性，缩短签约周期，提升合同管理效率",
+      "url": "https://static.bestsign.cn/2831b9b07e77b1380ea8799441aba6602aa5a628.png",
+      "videoUrl": "https://static.bestsign.cn/c276d7eaf30a1ce4a080627f47f0b15f9fb35b19.mp4"
+    },
+    "pain": [
+      {
+        "title": "合规门槛",
+        "desc": "购车人需要严格的实名认证，满足法律法规要求",
+		"icon": "https://static.bestsign.cn/21a14790a9ecb8a216ca9b5ac26ee7b17a61d5a7.png",
+		"iconfont":"icon-heguimenjianicon"
+      },
+      {
+        "title": "效率低",
+        "desc": "大量的合同、协议、单据都需要定期归档整理，调取、查询麻烦",
+        "icon": "https://static.bestsign.cn/9f28241164cb39bc007629935001e6a5ab0fbe11.png",
+		"iconfont":"icon-dixiaoshuai"
+      },
+      {
+        "title": "流程长",
+        "desc": "签署流程、审核流程过长，影响业务运转效率",
+        "icon": "https://static.bestsign.cn/f9dfcfd6fdf7754958e23bacb4a8c000c16deaf4.png",
+		"iconfont":"icon-liuchengchangicon"
+      }
+    ],
+    "scene": [
+      {
+        "title": "业务场景",
+        "desc": "经销商合作协议、采购协议等",
+		"icon": "https://static.bestsign.cn/9d8f5abbdf04454f0e232897843873c97c8bde46.png",
+		"iconfont":"icon-yewuchangjingicon"
+      },
+      {
+        "title": "用户服务场景",
+        "desc": "试驾协议、购车协议、质押协议、委托服务协议等",
+        "icon": "https://static.bestsign.cn/b84e1cd2ada637c4a1a93879e8911cc8bb2748a4.png",
+		"iconfont":"icon-tuozhanfuwuicon"
+      },
+      {
+        "title": "汽车金融场景",
+        "desc": "融资租赁协议、委托扣款授权书、征信授权书、贷款协议、库存融资协议等",
+        "icon": "https://static.bestsign.cn/a5a41dd667cd744a5d5afa91b95109e6f7cf5e94.png",
+		"iconfont":"icon-qichejinrongicon"
+      },
+      {
+        "title": "人力资源场景",
+        "desc": "劳动合同、竞业协议、员工手册、会员服务协议等",
+        "icon": "https://static.bestsign.cn/c1a34f1d1162b547648225169fa9ea3e7871d3a5.png",
+		"iconfont":"icon-renliziyuan2icon"
+      }
+    ],
+    "solution": [
+      {
+        "title": "电子签名技术满足合规要求，更安全",
+        "desc": "每份合同、单据都通过电子签名技术，生成防篡改的，不可抵赖的数字签名；可信时间戳，区块链技术存证，让合同内容无法篡改。",
+		"url": "https://static.bestsign.cn/8fdef77b174c564fd6a70cfb1e7bd734bbd0db44.png",
+		"iconfont":"icon-falvkeji"
+      },
+      {
+        "title": "合同智能管理，运维效率提升",
+        "desc": "电子化归档、下载、查看合同，业务数据实现云端运营，更节约人工。",
+		"url": "https://static.bestsign.cn/155f34118156da57f974f6873320b76fe5aaf708.png",
+		"iconfont":"icon-xianshangqianshu"
+      },
+      {
+        "title": "签署流、审批流，业务流程更短",
+        "desc": "简化签署流程、审核流程，加速业务流程流转",
+		"url": "https://static.bestsign.cn/14b2924be77ecd75d5b35e15ef65c1abd22645dd.png。",
+		"iconfont":"icon-liucheng"
+		
+      }
+    ],
+    "usage": {
+      "pc": "https://static.bestsign.cn:443/423d474840f0438b9a97af48efe00f560657a086.jpg",
+      "mp": "https://static.bestsign.cn:443/f622002028e1dc1dbf6b7a0b6137e5c81dd04b34.jpg"
+    },
+    "evaluate": [
+      {
+        "name": "陈明垓",
+        "desc": "一汽资本CIO",
+        "logo": "https://static.bestsign.cn/683cb4c2887ce62daae491a23f3cc1d2e9008081.png",
+        "content": "“一汽金融引入上上签的电子签约技术，解决业务场景中的电子合同、电子回单、电子保单等无纸化需求，达成降本增效的目的。上上签拥有一支专业而有责任感的技术团队，在项目推进过程中，无论遇到什么问题和困难，上上签的客服和技术团队都能迅速响应和敏捷解决，与他们合作我很放心。”"
+      },
+      {
+        "name": "徐建俊",
+        "desc": "万帮新能源 项目经理",
+        "logo": "https://static.bestsign.cn/1f09138d9f24b5fc05da49daf8a8ef0a2552d79d.png",
+        "content": "“作为电动汽车产业独角兽， 星星充电拥有电动汽车销售、汽车保险、充电桩研发、生产、销售等全流程业务模块。上上签帮助我们完美解决了合同签署过程中，线下用章和线上审批的脱节问题。现在，我们已经将上上签的服务运用到公司内部所有合同场景，工作效率也显著提升。相信有上上签的持续助力，新能源全产业链的智慧升级会加速到来。”"
+      }
+    ],
+    "seo": {
+      "title": "供应链金融电子签约解决方案_上上签电子签约云平台",
+      "keywords": "供应链金融行业解决方案,供应链金融合同场景,供应链金融合同应用",
+      "description": "上上签供应链金融行业解决方案旨在通过新技术，帮助企业实现方便快捷的实时在线电子合同签署。"
+    },
+    "icon": "qiche",
+    "features": {
+      "tong": [
+        "签署效率低，交易受阻",
+        "流程缓慢，用户体验差",
+        "合同种类复杂，难以管理",
+        "签署人身份、信用不透明"
+      ],
+      "case": [
+        "线上签署，增长业务量",
+        "签署便捷，优化用户体验",
+        "分类自动归档，智能管理",
+        "严格实名，降低风险"
+      ],
+      "type": [
+        "《委托扣款授权书》",
+        "《征信授权书》",
+        "《融资租赁协议》",
+        "《车辆委托订购服务协议》",
+        "《分期购车协议》"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "solutionName": "综合",
+    "banner": {
+      "title": "综合",
+      "desc": "打通合同信用信息，降低合同签署成本，提升供应链对接效率",
+      "url": "https://static.bestsign.cn/7986792b63c55f4fa8ba16f53dbf8f5030f63910.png",
+      "videoUrl": "https://static.bestsign.cn/c276d7eaf30a1ce4a080627f47f0b15f9fb35b19.mp4"
+    },
+    "pain": [
+      {
+        "title": "交易信用不可控",
+        "desc": "",
+        "icon": "https://static.bestsign.cn/ef136ed3cc2a896df9a09d608daa51d69a01eff0.png",
+		"iconfont":"icon-jiaoyibukekong"
+      },
+      {
+        "title": "业务牵涉多方，时效性差",
+        "desc": "",
+        "icon": "https://static.bestsign.cn/de06ac2070b3bba54f7f8760f829b30c9752e703.png",
+		"iconfont":"icon-xiaoshuaidiicon"
+      },
+      {
+        "title": "B2B交易不同地域，纸质合同传递困难",
+        "desc": "",
+        "icon": "https://static.bestsign.cn/7fa5d0ee4612ff6a9e731f217eab6ac418efe5.png",
+		"iconfont":"icon-liuchengchangicon"
+      }
+    ],
+    "scene": [
+      {
+        "title": "供应链管理",
+        "desc": "经销商协议、合作协议",
+		"icon": "https://static.bestsign.cn/b84e1cd2ada637c4a1a93879e8911cc8bb2748a4.png",
+		"iconfont":"icon-gongyinglianjinrongicon1"
+	
+      }
+    ],
+    "solution": [
+      {
+        "title": "电子签名+法律科技提升风控等级",
+        "desc": "生成防篡改的，不可抵赖的数字签名；可信时间戳，区块链技术存证，让合同内容无法篡改，在线仲裁减少维权成本。",
+		"url": "https://static.bestsign.cn/bbf93cbf9b342ff48707952439898b5fc51ce115.png",
+		"iconfont":"icon-falvkeji"
+      },
+      {
+        "title": "优化签署流程，业务流转效率更高",
+        "desc": "多种云部署方案无缝接入，合同数据与业务关联，加速业务流转。",
+		"url": "https://static.bestsign.cn/f6e2723313389ab8506ef1ae6e0012de437f8a5c.png",
+		"iconfont":"icon-xinxixitong"
+      },
+      {
+        "title": "合同在线签署，更高效",
+        "desc": "在线签署，不受时间、地点限制，解决快递等大量成本。",
+		"url": "https://static.bestsign.cn/d233fbcbc557ac0bec69f736d10d62b4d0877bf.png",
+		"iconfont":"icon-liucheng"
+		
+      }
+    ],
+    "usage": {
+      "pc": "https://static.bestsign.cn:443/fb8d0e38fd084504c6b6006092925a5588b8f6a0.jpg",
+      "mp": "https://static.bestsign.cn:443/5fc7efed9b571196fb393d5a92ca550f5dabd037.jpg"
+    },
+    "evaluate": [
+		{
+			"name": "詹华",
+			"desc": "EASIN业务总监",
+			"logo": "https://static.bestsign.cn/59ac0428a2f7eb24279cf6f9f5f9b1cae3a457a2.jpg",
+			"content": "“EASIN国际义工旅行自成立以来已为上万名深度旅行爱好者提供义工旅行服务。而上上签则帮助EASIN与义工旅行者高效地完成旅行协议的签署。显著降低了与各地旅行者异地签署合同的时间与经济成本，也为旅行者和EASIN带来更强的法律保障。”"
+      }
+	],
+    "seo": {
+      "title": "供应链金融电子签约解决方案_上上签电子签约云平台",
+      "keywords": "供应链金融行业解决方案,供应链金融合同场景,供应链金融合同应用",
+      "description": "上上签供应链金融行业解决方案旨在通过新技术，帮助企业实现方便快捷的实时在线电子合同签署。"
+    }
+  }
+]
