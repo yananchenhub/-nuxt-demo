@@ -1,0 +1,16 @@
+[
+  {
+    "name": "pageA",
+    "path": "/pageA",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageA/index.vue",
+    "chunkName": "pages/pageA/index",
+    "_name": "_05d145e1"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b86891c4"
+  }
+]
