@@ -50,11 +50,9 @@
 export default{
   methods:{
     toPageA(){
-      debugger;
-      // this.$router.push({
-      //   path: '/pageA',
-      // });
-      console.log('aaa');
+      this.$router.push({
+        path: '/pageA',
+      });
     }
   }
 }

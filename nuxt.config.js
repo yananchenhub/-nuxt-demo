@@ -32,6 +32,15 @@ export default {
   plugins: [
     '@/plugins/element-ui'
   ],
+  router: {
+    extendRoutes(routes, resolve) {
+      routes.push({
+        name: 'pageC',
+        path: '/pageCNew',
+        component: resolve(__dirname, 'pages/pageC/index.vue')
+      });
+    }
+  },
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,

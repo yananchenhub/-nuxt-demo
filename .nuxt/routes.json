@@ -3,14 +3,41 @@
     "name": "pageA",
     "path": "/pageA",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageA/index.vue",
-    "chunkName": "pages/pageA/index",
-    "_name": "_05d145e1"
+    "chunkName": "pages/pageA/index"
+  },
+  {
+    "name": "pageB",
+    "path": "/pageB",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageB/index.vue",
+    "chunkName": "pages/pageB/index"
+  },
+  {
+    "name": "pageC",
+    "path": "/pageC",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/index.vue",
+    "chunkName": "pages/pageC/index"
+  },
+  {
+    "name": "pageB-id",
+    "path": "/pageB/:id",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageB/_id.vue",
+    "chunkName": "pages/pageB/_id"
+  },
+  {
+    "name": "pageC-id",
+    "path": "/pageC/:id",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/_id.vue",
+    "chunkName": "pages/pageC/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_b86891c4"
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "pageC",
+    "path": "/pageCNew",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/index.vue"
   }
 ]
