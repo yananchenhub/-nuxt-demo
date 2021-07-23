@@ -7,6 +7,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _05d145e1 = () => interopDefault(import('../pages/pageA/index.vue' /* webpackChunkName: "pages/pageA/index" */))
 const _ca940ebc = () => interopDefault(import('../pages/pageB/index.vue' /* webpackChunkName: "pages/pageB/index" */))
 const _2f9aab63 = () => interopDefault(import('../pages/pageC/index.vue' /* webpackChunkName: "pages/pageC/index" */))
+const _baa1ba52 = () => interopDefault(import('../pages/pageC/function.vue' /* webpackChunkName: "pages/pageC/function" */))
 const _074dbb8a = () => interopDefault(import('../pages/pageB/_id.vue' /* webpackChunkName: "pages/pageB/_id" */))
 const _c8dbaaea = () => interopDefault(import('../pages/pageC/_id.vue' /* webpackChunkName: "pages/pageC/_id" */))
 const _b86891c4 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
@@ -35,6 +36,10 @@ export const routerOptions = {
     component: _2f9aab63,
     name: "pageC"
   }, {
+    path: "/pageC/function",
+    component: _baa1ba52,
+    name: "pageC-function"
+  }, {
     path: "/pageB/:id",
     component: _074dbb8a,
     name: "pageB-id"
@@ -50,6 +55,14 @@ export const routerOptions = {
     path: "/pageCNew",
     component: _2f9aab63,
     name: "pageC"
+  }, {
+    path: "/pageCNew/:id",
+    component: _c8dbaaea,
+    name: "pageCNew-id"
+  }, {
+    path: "/pageCNew_function",
+    component: _baa1ba52,
+    name: "pageCNew_function"
   }],
 
   fallback: false

@@ -18,6 +18,12 @@
     "chunkName": "pages/pageC/index"
   },
   {
+    "name": "pageC-function",
+    "path": "/pageC/function",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/function.vue",
+    "chunkName": "pages/pageC/function"
+  },
+  {
     "name": "pageB-id",
     "path": "/pageB/:id",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageB/_id.vue",
@@ -39,5 +45,15 @@
     "name": "pageC",
     "path": "/pageCNew",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/index.vue"
+  },
+  {
+    "name": "pageCNew-id",
+    "path": "/pageCNew/:id",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/_id.vue"
+  },
+  {
+    "name": "pageCNew_function",
+    "path": "/pageCNew_function",
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/function.vue"
   }
 ]

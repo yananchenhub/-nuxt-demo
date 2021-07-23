@@ -1,7 +1,11 @@
 <template>
   <div>
-    <div>pageC</div>
+    <div>
+      pagec
+    </div>
     <el-button @click="toPageCid">pageC:id</el-button>
+    <nuxt-link to="/pageCNew/1">nuxtTo </nuxt-link>
+    <nuxt-link to="/pageCNew_function">function </nuxt-link>
   </div>
 </template>
 <script>
@@ -9,7 +13,8 @@
   export default{
     methods: {
       toPageCid(){
-        this.$router.push('/pageCNew/1')
+        //此处会在middleWare里面被转成pageCNew/1
+        this.$router.push('/pageC/1')
       }
     }
   }
