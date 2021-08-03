@@ -16,7 +16,8 @@
         this.$router.push('/pageB/1')
       },
       toPageC(){
-        this.$router.push('/pageCNew')
+        // 301等其他类型的跳转到pageCNew
+        this.$router.push('/pageC')
       
       }
     }

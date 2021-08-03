@@ -9,7 +9,8 @@ export default function (context) {
       ['pageC'].includes(firstPath)
     ) {
       const productUrl = context.route.fullPath.replace('pageC', 'pageCNew');
-      context.redirect(301, productUrl);
+      // context.redirect(301, productUrl);
+      context.redirect(productUrl);
       return;
     }
 }
