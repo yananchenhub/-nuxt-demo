@@ -54,7 +54,8 @@ export default {
         
 		});
       //nuxt 里面的'-'与'/'一样，所以刷新页面的时候就把它给变成‘/’,想用‘-’的话就在middleware里面重定向一下或者是301跳转，见/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/function.vue
-      // routes.push({
+      
+			// routes.push({
       //   name: 'pageC-function',
       //   path: '/pageC-function', 
       //   component: resolve(__dirname, 'pages/pageC/function.vue'),

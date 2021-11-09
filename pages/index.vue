@@ -8,6 +8,8 @@
 <script>
 
   export default {
+    layout: 'default',
+    // layout:'blank',
     components:{
     }
   }

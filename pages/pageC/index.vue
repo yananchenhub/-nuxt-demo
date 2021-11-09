@@ -1,11 +1,15 @@
 <template>
   <div>
     <div>
-      pagec
+      pageC（这个页面的路由从"/pageC"重定向到“/pageCNew”）
     </div>
-    <el-button @click="toPageCid">pageC:id</el-button>
-    <nuxt-link to="/pageCNew/1">nuxtTo </nuxt-link>
-    <nuxt-link to="/pageCNew_function">function </nuxt-link>
+    <!-- <el-button @click="toPageCid">pageC:id</el-button> -->
+    <div>
+      <nuxt-link to="/pageCNew/1">nuxtTo </nuxt-link>
+    </div>
+    <div>
+      <nuxt-link to="/pageCNew_function">function </nuxt-link>
+    </div>
   </div>
 </template>
 <script>

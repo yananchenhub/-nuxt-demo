@@ -1,3 +1,3 @@
 <template>
-  <div>底部</div>
+  <div style="background:blue;color:#fff">底部</div>
 </tempalte>

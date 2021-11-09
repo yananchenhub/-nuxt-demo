@@ -3,57 +3,67 @@
     "name": "pageA",
     "path": "/pageA",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageA/index.vue",
-    "chunkName": "pages/pageA/index"
+    "chunkName": "pages/pageA/index",
+    "_name": "_05d145e1"
   },
   {
     "name": "pageB",
     "path": "/pageB",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageB/index.vue",
-    "chunkName": "pages/pageB/index"
+    "chunkName": "pages/pageB/index",
+    "_name": "_ca940ebc"
   },
   {
     "name": "pageC",
     "path": "/pageC",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/index.vue",
-    "chunkName": "pages/pageC/index"
+    "chunkName": "pages/pageC/index",
+    "_name": "_2f9aab63"
   },
   {
     "name": "pageC-function",
     "path": "/pageC/function",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/function.vue",
-    "chunkName": "pages/pageC/function"
+    "chunkName": "pages/pageC/function",
+    "_name": "_baa1ba52"
   },
   {
     "name": "pageB-id",
     "path": "/pageB/:id",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageB/_id.vue",
-    "chunkName": "pages/pageB/_id"
+    "chunkName": "pages/pageB/_id",
+    "_name": "_074dbb8a"
   },
   {
     "name": "pageC-id",
     "path": "/pageC/:id",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/_id.vue",
-    "chunkName": "pages/pageC/_id"
+    "chunkName": "pages/pageC/_id",
+    "_name": "_c8dbaaea"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_b86891c4"
   },
   {
     "name": "pageC",
     "path": "/pageCNew",
-    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/index.vue"
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/index.vue",
+    "_name": "_2f9aab63"
   },
   {
     "name": "pageCNew-id",
     "path": "/pageCNew/:id",
-    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/_id.vue"
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/_id.vue",
+    "_name": "_c8dbaaea"
   },
   {
     "name": "pageCNew_function",
     "path": "/pageCNew_function",
-    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/function.vue"
+    "component": "/Users/cyn/Work/practices/github-nuxt-demo/-nuxt-demo/pages/pageC/function.vue",
+    "_name": "_baa1ba52"
   }
 ]

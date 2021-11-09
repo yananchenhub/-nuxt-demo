@@ -1,3 +1,3 @@
 <template>
-  <div>头部</div>
+  <div style="background:blue;color:#fff">头部</div>
 </tempalte>
