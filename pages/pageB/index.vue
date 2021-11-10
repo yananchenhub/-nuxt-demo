@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div>
+  <div style="margin:50px">
+    <div style="margin:50px 0">
       pageB
     </div>
     <el-button @click="toPageBid">pageB:id</el-button>

@@ -1,10 +1,10 @@
 <!-- Please remove this file from your project -->
 <template>
-  <div class="relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0" style="height:300px">
+  <div class="relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0" style="height:300px;margin:50px">
     <el-button @click="toPageA">toPageA（默认方式）</el-button>
     <!-- <nuxt-link to='/pageA'>NUXT to pageA</nuxt-link> -->
     <el-button @click="langChange"> 切换中英文{{a}}</el-button>
-    <img src="@/assets/images/footer/beian.png"/>
+    <!-- <img src="@/assets/images/footer/beian.png"/> -->
     <!-- <div style="margin-left:30px">{{$t('header.use')}}</div> -->
     <!-- <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
